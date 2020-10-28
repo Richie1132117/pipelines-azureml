@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'azmldemows' # Workspace Service Connection name
+  ml-ws-connection: 'RichieSPConnection' # Workspace Service Connection name
   ml-ws: 'RichieMachielearning' # AML Workspace name
   ml-rg: 'RichieML' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
